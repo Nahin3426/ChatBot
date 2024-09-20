@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "404155277528",
+    "project_id": "silent-chat-42ba3",
+    "storage_bucket": "silent-chat-42ba3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404155277528:android:bbf643a99b5d2e908bb7ad",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjsHr4TM04Am1iIxcJqqvqTLmttWZOO9M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
